@@ -17,9 +17,9 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
 
 *Description*: Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
-*Categories*: garbage-collection, threading
+*Categories*: threading, general-purpose
 
-*Programming model*: compiled
+*Programming-Model*: compiled
 
 *Runtime*: native
 
@@ -38,9 +38,9 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
 
 *Description*: Empowering everyone to build reliable and efficient software.
 
-*Categories*: systems-programming, type-safety
+*Categories*: systems-programming
 
-*Programming model*: virtual machine/compiled
+*Programming-Model*: virtual machine, compiled
 
 *Runtime*: LLVM/native
 
@@ -61,7 +61,7 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
 
 *Categories*: general-purpose
 
-*Programming model*: virtual machine/compiled
+*Programming-Model*: virtual machine, compiled
 
 *Runtime*: CLR/native
 
@@ -87,8 +87,54 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
 
 *Categories*: parallelism
 
-*Programming model*: compiled
+*Programming-Model*: compiled
 
-*Runtime*: custom
+*Runtime*: native
 
 *Language-Type*: programming-language
+
+# Group by
+## Categories
+### Parallelism
+- Chapel
+### Systems programming
+- Rust
+### General purpose
+- C#
+- Go
+### Threading
+- Go
+## Programming model
+### Compiled
+- Go
+- Rust
+- C#
+- Chapel
+### Virtual machine
+- C#
+## Runtime
+### CLR
+- C#
+### LLVM
+- Rust
+### Native
+- Go
+- Rust
+- C#
+- Chapel
+## Language type
+### Programming language
+- Go
+- Rust
+- C#
+- Chapel
+## License
+### Expat (a.k.a. MIT)
+- Rust
+- C#
+## BSD license family
+- Go
+- Rust (some files)
+## Apache License
+- Rust
+- Chapel
