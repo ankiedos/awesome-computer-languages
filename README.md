@@ -73,10 +73,12 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
   - *% of Go*: ~ 1.43%
   - *% of Rust*: 2.03(108)%
   - *% of C#*: ~ 9.05%
+
 *Forks*: 396
   - *% of Go*: 2.(538461)%
   - *% of Rust*: 3.96%
   - *% of C#*: 10.(702)%
+
 *Watching*: 61
 
 *Releases*: 24
@@ -132,9 +134,9 @@ I look at `programming-language`, `proglang`, and `prog-lang` on GitHub and GitL
 ### Expat (a.k.a. MIT)
 - Rust
 - C#
-## BSD license family
+### BSD license family
 - Go
 - Rust (some files)
-## Apache License
+### Apache License
 - Rust
 - Chapel
